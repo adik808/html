@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>Adil Alisher DJ2102</title>
+</head>
+<body background="vol.jpg">
+<font size="5" face="arial" color="#00FF00">
+<h1 align="Center">Волейбол</h1>
+</font>
+<table bgcolor="#00CED1" border="1" width="90%" cellspadding="0" cellspacing="0" align="center">
+<tr>
+<th width=20%><font size="5"><a href="index.html">Главное меню</a></font></th>
+<th width=20%><font size="5"><a href="page1.html">Достижения Казахстана в волейболе</a></font></th>
+<th width=20%><font size="5"><a href="page2.html">Чемпионат Азии</a></font></th>
+<th width=20%><font size="5"><a href="page3.html">Лучший игрок РК</a></font></th>
+<th width=20%><font size="5"><a href="page4.html">Лучшие команды суперлиги</a></font></th>
+</tr>
+<tr>
+<td colspan="3"><font size="5"><p align="center">Волейбо́л — вид спорта, командная спортивная игра, в процессе которой две команды соревнуются на специальной площадке, разделённой сеткой, стремясь направить мяч на сторону соперника таким образом, чтобы он приземлился на площадке противника 
+ </p></font></td>
+</tr>
+</table><hr>
+</body>
+</html>
